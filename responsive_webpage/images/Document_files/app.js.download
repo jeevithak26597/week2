@@ -1,0 +1,48 @@
+
+function identifyById() {
+    console.log(document.getElementById('para1'));
+}
+
+function identifyByClass() {
+    console.log(document.getElementsByClassName('class1'));
+}
+
+function identifyByTag() {
+    console.log(document.getElementsByTagName('p'));
+}
+
+function changeBackground() {
+document.body.style.backgroundColor='blue';
+}
+
+function increaseFont() {
+}
+
+function changeFontColor() {
+
+}
+
+function revertColor() {
+
+}
+
+function hide() {
+
+}
+
+function changeBackColorForAllBox() {
+
+}
+
+
+function addAdjacent() {
+}
+
+function removePara() {
+
+}
+
+function animatePara() {
+
+}
+
